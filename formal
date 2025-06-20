@@ -1,0 +1,9 @@
+Tech Stack:
+
+Frontend: React.js or Next.js for dynamic UI and component-based rendering.
+Backend: Node.js with Express.js for API creation and server-side logic.
+Database: MongoDB or PostgreSQL for storing user and appointment data.
+Authentication: JWT or OAuth for secure login and user authentication.
+Storage: Cloudinary or Firebase Storage for image and document storage.
+Deployment: Vercel or Heroku for hosting the application.
+Additional Tools: Redux or Context API for state management.
