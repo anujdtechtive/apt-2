@@ -4,6 +4,7 @@ const doctorSchema = new mongoose.Schema(
   {
     userId: {
       type: String,
+      
     },
     firstName: {
       type: String,
